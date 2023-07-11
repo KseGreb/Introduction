@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import newFile from './newFile'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           Learn React!!! It's fun!!!
         </a>
       </header>
+      <newFile.js/>
     </div>
   );
 }
